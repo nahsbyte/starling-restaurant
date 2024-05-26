@@ -53,6 +53,7 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyCkJ_XuG6UB8mgUxy3QGtk3mbgghMhfgrg',
     appId: '1:113142352242:android:dd6df30989af5d60e175eb',
     messagingSenderId: '113142352242',
+    databaseURL: 'https://starling-d419a-default-rtdb.asia-southeast1.firebasedatabase.app',
     projectId: 'starling-d419a',
     storageBucket: 'starling-d419a.appspot.com',
   );
@@ -60,6 +61,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAHpgZ2Ot7cXBqDWIjAVJxunJLKyzYDUyk',
     appId: '1:113142352242:ios:70260a764ee38e07e175eb',
+    databaseURL: 'https://starling-d419a-default-rtdb.asia-southeast1.firebasedatabase.app',
     messagingSenderId: '113142352242',
     projectId: 'starling-d419a',
     storageBucket: 'starling-d419a.appspot.com',
